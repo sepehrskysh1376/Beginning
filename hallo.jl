@@ -1,1 +1,1 @@
-println("Hallo, Deutschland!")
+println("Hello, World!")
