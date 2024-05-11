@@ -1,2 +1,9 @@
-# Explaination
-This is the tutorial from W3schools to learn Git and Github 
+# Tutorial for Git/GitHub
+
+## Explaination
+This is the tutorial from W3schools for learning Git and Github.
+
+## The Files
+Other files other than **README.md** and **Git.ipynb** are the practice files and do not mean anything and contain almost nothing especial.
+
+
